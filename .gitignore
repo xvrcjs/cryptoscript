@@ -1,0 +1,9 @@
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Archivo de clave
+key.txt
+
+# Archivo de entorno virtual (si estás utilizando uno)
+venv/
